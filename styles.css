@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Cursive', sans-serif;
-    background-image: url('your-background-image.jpg'); /* Replace with your image */
+    background-image: url('your-background-image.png'); /* Replace with your image */
     background-size: cover;
     background-position: center;
     display: flex;
