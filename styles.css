@@ -107,9 +107,8 @@ body {
     font-weight: bold;
     cursor: pointer;
 }
-
 /* Mobile Optimization */
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .invitation-container {
         width: 100%;
         padding: 10px;
@@ -124,3 +123,4 @@ body {
         height: 300px;
     }
 }
+*/
